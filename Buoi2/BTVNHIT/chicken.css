@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey; /* Màu nền của trang */
+}
+.chicken{
+    width:  500px;
+    height: 650px;
+    border: none solid grey;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+  .imageChange{
+    max-width: 500px;
+      height: 425px ;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+  }
+  h2{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .div{
+    margin-top: 100px;
+    display: block;
+  }
+  p{
+    text-align: left;
+    margin-left: 10px;
+    color: grey;
+  }
+  h3{
+    text-align: left;
+    color:green;
+    font-size: large;
+    margin-left: 10px;
+  }
+  .tien{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 25px;
+    color: red;
+  }
+  button{
+    width: 240px;
+    height: 40px;
+     color:white;
+     background-color: orange;
+     font-size: 20px;
+     border-radius: 20px;
+     box-sizing: border-box;
+     font-family: 'Times New Roman', Times, serif;
+  }
+  .tien1{
+   color: grey;
+   font-size: 20px;
+  }
