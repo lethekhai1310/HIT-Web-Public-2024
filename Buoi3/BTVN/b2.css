@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+ 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+header h1 {
+    margin: 0;
+    font-size: 26px;
+    font-family: "Karma", serif;
+    font-weight: normal;
+}
+.menu-icon, .mail-link {
+    font-size: 24px;
+    cursor: pointer;
+    font-family: "Karma", serif;
+}
+.b2{
+        
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        padding: 20px;
+        font-family: "Karma", serif;
+        
+}
+.anh1{
+    
+        width: 23%;
+        margin-bottom: 20px;
+        font-family: "Karma", serif;
+        font-size: 18px;
+        overflow: hidden;
+        text-align: center;
+    
+}
+.anh2{
+
+    width: 23%;
+    margin-bottom: 20px;
+    font-family: "Karma", serif;
+    overflow: hidden;
+    font-size: 18px;
+    text-align: center;
+
+}
+.anh3{
+
+    width: 23%;
+    margin-bottom: 20px;
+    font-family: "Karma", serif;
+    overflow: hidden;
+    font-size: 18px;
+    text-align: center;
+}
+.anh4{
+
+    width: 23%;
+    margin-bottom: 20px;
+    font-family: "Karma", serif;
+    overflow: hidden;
+    font-size: 18px;
+    text-align: center;
+}.title1{
+    font-size: 28px;
+    margin: 15px 0;
+}
+.title2{
+   font-size: 28px;
+   margin: 15px 0;
+}
+.title3{
+    font-size: 28px;
+    margin: 15px 0;
+}
+.title4{
+    font-size: 28px ;
+    margin: 15px 0;
+}
+
+
+
