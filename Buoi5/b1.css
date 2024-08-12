@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+} */
+
+.p1{
+    min-height: 40px;
+   
+    display: flex;
+    justify-content: space-between;
+    border-radius: 1px;
+    border:  1px cornsilk;
+    margin-top: 30px;
+}
+a {
+     margin: auto 16px;
+    /* Mất gạch chân text-decoration : none */
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.p2{
+    position: relative;
+    display: inline-block;
+}
+.p2b{
+    position: relative;
+    display: inline-block;
+}
+.p2b img{
+    display: block;
+    height: 500px;
+    justify-content: space-between;
+    width: auto;
+     margin-top: 30px;
+     margin-left: 80px;
+     margin-right: 50px; */
+    /* padding-left: 90px;
+    padding-right: 50px; */
+}*
+.nut{
+    position: absolute;
+        top: 85%;
+        left: 80%;
+        font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      font-weight: bold;
+      color: white;
+      background-color: orange;
+      border-radius: 8px;
+      height: 45px;
+      width: 150px;
+      border: 1px solid grey;
+      
+    
+}
+.p2b3{
+    color: orange;
+   margin-left: 100px;
+   font-size: 23px;
+   font-weight: bold;
+}
+/* }.p2a{
+    display: flex;
+    justify-content: space-between;
+   
+    margin-left: 90px;
+    margin-right: 50px;
+    
+}
+.p2a img{
+    height: 300px;
+    width:auto ;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.text-content{
+    display: flex;
+  text-align: right;
+    position: absolute;
+   
+    font-size: 24px;
+    
+} */
+ .p3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+ }
+.p3 img{
+    position: relative;
+    width: auto;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.img
+{  
+    position: relative;
+}
+
+.text
+{
+    
+    position: absolute;
+    top: 0;
+    left: 70%;
+    text-align: right;
+    background-color: rgb(42, 187, 42);
+    color: white;
+    font-size: 12px;
+}
+
+.end{
+    min-height: 40px;
+   background-color: orange;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
